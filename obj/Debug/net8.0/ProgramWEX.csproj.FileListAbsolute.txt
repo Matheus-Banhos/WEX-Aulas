@@ -1,0 +1,14 @@
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\bin\Debug\net8.0\ProgramWEX.exe
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\bin\Debug\net8.0\ProgramWEX.deps.json
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\bin\Debug\net8.0\ProgramWEX.runtimeconfig.json
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\bin\Debug\net8.0\ProgramWEX.dll
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\bin\Debug\net8.0\ProgramWEX.pdb
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\ProgramWEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\ProgramWEX.AssemblyInfoInputs.cache
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\ProgramWEX.AssemblyInfo.cs
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\ProgramWEX.csproj.CoreCompileInputs.cache
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\ProgramWEX.dll
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\refint\ProgramWEX.dll
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\ProgramWEX.pdb
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\ProgramWEX.genruntimeconfig.cache
+C:\dev\PROJETOS\ProgramWEX\ProgramWEX\obj\Debug\net8.0\ref\ProgramWEX.dll
